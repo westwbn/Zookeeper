@@ -1,0 +1,14 @@
+custom_name: Topics
+content:
+- Overview of the basic program
+- Boolean and logical operations
+- Reading data with a readln
+- Integers in action
+- Relational operators
+- Characters
+- Introduction to MutableList
+- String templates
+- If expression
+- Repeating blocks
+- Values and variables
+- While loops
